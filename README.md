@@ -7,6 +7,8 @@
 -   [HFU | 合大官网](https://www.hfuu.edu.cn/)
 -   [Mail | 学生邮箱](http://mail.stu.hfuu.edu.cn/)
 -   [Lib | 图书馆](https://lib.hfuu.edu.cn/)
+    -   咨询2群：721693279
+
 
 ## Life | 生活
 
@@ -20,6 +22,15 @@
 -   [人大院](https://www.hfuu.edu.cn/aibd/)
 -   [教务处](https://www.hfuu.edu.cn/jwc/)
 -   [招生办](https://www.hfuu.edu.cn/zs/)
+
+## Staff | 教职工
+
+-   [张建武](http://106.14.133.181/)
+-   [吴志泽](https://deep-wu.github.io/)
+
+## Non-Official | 非官方
+
+-   合肥大学QQ校园频道：HFDXBBQ1XX
 
 ---
 
