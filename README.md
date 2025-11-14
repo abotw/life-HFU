@@ -23,7 +23,7 @@
 
 ---
 
- ![36-AI&BD-College.heic](attachments/36-AI&BD-College.heic) 
+ ![36-AI&BD-College.heic](attachments/36-AI&BD-College.jpg) 
 
 36幢，人工智能与大数据学院，摄于2025年11月14日11时59分。
 
