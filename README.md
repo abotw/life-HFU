@@ -1,4 +1,4 @@
-# HFU Life
+# Life in HFU
 
 ## Most Clicked | 最多点击
 
